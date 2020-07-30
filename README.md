@@ -1,2 +1,2 @@
-# lajosmajor.gitub.io
+# lajosmajor.github.io
 Personal page
